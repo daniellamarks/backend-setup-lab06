@@ -11,7 +11,7 @@
       "test": "node --experimental-vm-modules node_modules/.bin/jest --verbose --runInBand",
       "test:watch": "npm run test -- --watch"
   }, 
-  }, 
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/daniellamarks/backend-setup-lab06.git"
